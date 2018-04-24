@@ -1,0 +1,51 @@
+[06:10:33:734 | 12224 | 1] Logger started
+[06:10:33:735 | 12224 | 1] Snippets started, version 0.8.2
+[06:10:33:739 | 12224 | 5] Creating empty database
+[06:10:33:819 | 12224 | 4] UserSettings initialized
+[06:10:33:958 | 12224 | 5] Database created
+[06:10:34:040 | 12224 | 5] Storages initialized
+[06:10:34:293 | 12224 | 1] MainWindow initialized
+[06:10:34:649 | 12224 | 1] MainWindow activation. Duration 0,308 sec
+[06:10:34:684 | 12224 | 1] Proxy: no
+[06:10:34:708 | 12224 | 1] Register 'NewSnippet' hotkey
+[06:10:34:708 | 12224 | 1] Register 'ShowPopupSearch' hotkey
+[06:10:34:755 | 12224 | 8] Distributors loading...
+[06:10:34:767 | 12224 | 8] Checking available online distributors...
+[06:10:34:805 | 12224 | 4] Start sparkle loop
+[06:10:34:806 | 12224 | 4] [NetSparkle] Starting background worker
+[06:10:34:809 | 12224 | 4] [NetSparkle] Starting update loop...
+[06:10:34:809 | 12224 | 4] [NetSparkle] Reading config...
+[06:10:34:810 | 12224 | 4] [NetSparkle] Downloading and checking appcast
+[06:10:35:395 | 12224 | 1] System.NullReferenceException: Object reference not set to an instance of an object.
+   at Snippets.CodeEditor.AceView.()
+[06:10:35:407 | 12224 | 4] [NetSparkle] Lastest version on the server is 0.8.2.51
+[06:10:35:407 | 12224 | 4] [NetSparkle] Touch the last check timestamp
+[06:10:35:412 | 12224 | 4] [NetSparkle] Installed version is valid, no update needed (0.8.2.51)
+[06:10:35:412 | 12224 | 4] [NetSparkle] Sleeping for an other 1440 minutes, exit event or force update check event
+[06:10:37:140 | 12224 | 8] 11 server distributors available
+[06:10:37:143 | 12224 | 8] 0 distributors updates and 11 new distributors available
+[06:10:53:945 | 12224 | 1] DatabaseManager: Demo entities generation. Duration 0,103 sec
+[06:10:55:651 | 12224 | 1] Unregister 'NewSnippet' hotkey
+[06:10:55:651 | 12224 | 1] Unregister 'ShowPopupSearch' hotkey
+[06:10:55:651 | 12224 | 4] [NetSparkle] Got exit signal
+[06:10:55:714 | 12224 | 1] Snippets is shutting down...
+[06:19:24:979 | 10224 | 1] Logger started
+[06:19:24:980 | 10224 | 1] Snippets started, version 0.8.2
+[06:19:25:046 | 10224 | 5] UserSettings initialized
+[06:19:25:141 | 10224 | 7] Database exists. Version: 0.8.2. Path 'C:\Users\craigt\AppData\Local\Snippets\snippets.sqlite'
+[06:19:25:203 | 10224 | 7] Storages initialized
+[06:19:25:337 | 10224 | 1] MainWindow initialized
+[06:19:25:699 | 10224 | 1] MainWindow activation. Duration 0,320 sec
+[06:19:25:700 | 10224 | 1] Proxy: no
+[06:19:25:728 | 10224 | 1] Register 'NewSnippet' hotkey
+[06:19:25:728 | 10224 | 1] Register 'ShowPopupSearch' hotkey
+[06:19:25:736 | 10224 | 5] Start sparkle loop
+[06:19:25:737 | 10224 | 5] [NetSparkle] Starting background worker
+[06:19:25:740 | 10224 | 5] [NetSparkle] Starting update loop...
+[06:19:25:740 | 10224 | 5] [NetSparkle] Reading config...
+[06:19:25:740 | 10224 | 5] [NetSparkle] Update check performed within the last 1440 minutes!
+[06:19:25:740 | 10224 | 5] [NetSparkle] Sleeping for an other 1440 minutes, exit event or force update check event
+[06:19:25:766 | 10224 | 7] Distributors loading...
+[06:19:25:791 | 10224 | 7] Checking available online distributors...
+[06:19:26:991 | 10224 | 7] 11 server distributors available
+[06:19:26:993 | 10224 | 7] 0 distributors updates and 11 new distributors available

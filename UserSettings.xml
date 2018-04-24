@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <PasteCodeSchemas>
+    <Schema_CTRL_V IsDefault="True">
+      <!-- simulates Ctrl+V to paste code -->
+    </Schema_CTRL_V>
+    <Schema_SHIFT_INSERT>
+      <!-- simulates Shift+Insert to paste code -->
+      <Application ProcessName="sh.exe" />
+	  <Application ProcessName="putty.exe" />
+      <Application ProcessName="xshell.exe" />
+    </Schema_SHIFT_INSERT>
+  </PasteCodeSchemas>
+</Settings>
